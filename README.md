@@ -3,7 +3,7 @@
 
 ## 1. Numpy - basics @numpy-play.py
 
-# https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html
+https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html
 
 -> numpy array creation, random array geeration, empty array generation.
 
